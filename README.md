@@ -1,4 +1,4 @@
 # Zillow-AWS-Data-Pipeline
 Zillow API ingested into AWS Data Pipeline
 
-[!alt text](zillow%20dashboard.png)
+<img src=zillow dashboard.png alt=Dashboard width=800>
